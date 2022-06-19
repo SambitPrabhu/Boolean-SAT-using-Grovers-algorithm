@@ -1,6 +1,6 @@
 # Boolean-SAT-using-Grovers-algorithm
-Boolean 5-SAT problem of 'Grover's dinner party' solved using Grover's algorithm in Qiskit.
-Project associated with Quantum Computing Group, IIT Roorkee.
+Boolean 5-SAT problem of 'Grover's dinner party' has been solved using Grover's algorithm in Qiskit.
+A Project associated with Quantum Computing Group, IIT Roorkee.
 
 MOTIVATION:
 Grover’s algorithm, also known as the quantum search algorithm, is a quantum algorithm designed by Los Grover in 1996 to search for an element in an unsorted array quadratically faster than the classical linear search for large datasets. In this project we will solve a particular boolean satisfiability problem using Grover's algorithm.
